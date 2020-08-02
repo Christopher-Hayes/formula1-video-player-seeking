@@ -14,5 +14,5 @@ Downloadable here: https://addons.mozilla.org/en-US/firefox/addon/seek-f1-tv-vid
 
 3) Violent Monkey
 
-If you have the violent monkey, you don't have to install any additional extensions. Just add the `violent_monkey_script.js` script.
+If you have the violent monkey extension, you don't have to install any additional extensions. Just add the `violent_monkey_script.js` script. GreaseMonkey, TamperMonkey, etc should also work, but haven't tested.
 
