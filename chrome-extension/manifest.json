@@ -1,0 +1,16 @@
+{
+  "name": "Seek F1TV Video Stream",
+  "version": "1.0",
+  "description": "Add forward+backward seeking to Formula1 TV video stream. uses the left and right arrow keys.",
+  "permissions": ["https://f1tv.formula1.com/en/current-season/*/*-formula-1-race"],
+  "content_scripts": [
+    {
+      "matches": ["https://f1tv.formula1.com/en/current-season/*/*-formula-1-race"],
+      "js": ["main.js"]
+    }
+  ],
+  "icons": {
+    "48": "icon_48.png"
+  },
+  "manifest_version": 2
+}
