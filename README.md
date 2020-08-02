@@ -5,11 +5,14 @@ For whatever reason, the F1TV video player doesn't allow you to seek forwards/ba
 This script can be added to your browser in one of 3 ways:
 
 1) Chrome extension
+
 Listing pending review...
 
 2) Firefox addon
+
 Downloadable here: https://addons.mozilla.org/en-US/firefox/addon/seek-f1-tv-video-stream/
 
 3) Violent Monkey
+
 If you have the violent monkey, you don't have to install any additional extensions. Just add the `violent_monkey_script.js` script.
 
