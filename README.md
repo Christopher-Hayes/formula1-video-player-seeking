@@ -1,2 +1,3 @@
-# formula1-video-player-seeking
-Add keyboard seeking to Formula1 video player
+# Add seeking to F1TV video player
+
+For whatever reason, the F1TV video player doesn't allow you to seek forwards/backwards with the arrow keys. This code simply adds an event handler to the arrow keys to trigger the seeking behavior on the F1TV video player.
