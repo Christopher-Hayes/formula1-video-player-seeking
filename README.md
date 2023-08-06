@@ -1,3 +1,15 @@
+# Deprecation Notice
+
+**This browser extension has been deprecated.** 
+
+As of now, F1 TV has built-in video seeking capabilities in its player, making this extension redundant. Therefore, it has been disabled/removed from both the Chrome and Firefox stores.
+
+It is recommended to uninstall this extension and use the native seeking feature provided by F1 TV.
+
+---
+
+Old README:
+
 # Add seeking to F1TV video player
 
 For whatever reason, the F1TV video player doesn't allow you to seek forwards/backwards with the arrow keys. This code simply adds an event handler to the arrow keys to trigger the seeking behavior on the F1TV video player. The code is set to seek 10 seconds at a time.
